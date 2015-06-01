@@ -1,5 +1,5 @@
 package arrays;
-
+//Testing combinations
 public class Combinations {
     private StringBuilder output = new StringBuilder();
     private final String inputstring;
